@@ -11,10 +11,10 @@
 
 - 🎓 Graduate in **full stack web development** at <a href="https://www.digitalhouse.com/br">Digital House</a>.
 - 👨🏽‍💻 Currently **studying** at <a href="https://rocketseat.com.br">Rocketseat</a>.
-- 🌱 Improving my skills in **React**.
+- 🌱 Learning more and improving my skills in **React**.
 - ⚡️ Fun-Fact: I have a bachelor's degree in pharmacy.
 
-## 🚀 <strong>My Skills</strong>
+## ⚒️ <strong>Tech Stacks</strong>
 
 <h3>
 
@@ -56,7 +56,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 
-## ⭐ <strong>Info about GitHub account</strong>
+## ⭐ <strong>Info about my GitHub account</strong>
 
 &nbsp;
 
