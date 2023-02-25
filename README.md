@@ -1,24 +1,24 @@
-## Olá! Eu sou <strong>{ Evandro }</strong>, Desenvolvedor Web Full Stack 🚀
+## Hello! I'm <strong>{ Evandro }</strong>, Full stack web developer 🚀
 
 [![GitHub evans-costa](https://img.shields.io/github/followers/evans-costa?label=follow&style=social)](https://github.com/evans-costa)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evandro-souzac/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:evandro.souzac@gmail.com)
 
-## 🧑🏻‍💻 <strong>Sobre Mim</strong>
+## 🧑🏻‍💻 <strong>About Me</strong>
 
 <!-- Any image aligned to the right. Beware the width -->
 <!--img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
-- 🎓 Formado em **desenvolvimento web full stack** pela <a href="https://www.digitalhouse.com/br">Digital House</a>.
-- 👨🏽‍💻 Atualmente estudando pela <a href="https://rocketseat.com.br">Rocketseat</a>.
-- 🌱 Aprimorando meus conhecimentos em **React**.
-- ⚡️ Fun-Fact: Sou bacharel em farmácia.
+- 🎓 Graduate in **full stack web development** at <a href="https://www.digitalhouse.com/br">Digital House</a>.
+- 👨🏽‍💻 Currently **studying** at <a href="https://rocketseat.com.br">Rocketseat</a>.
+- 🌱 Improving my skills in **React**.
+- ⚡️ Fun-Fact: I have a bachelor's degree in pharmacy.
 
-## 🚀 <strong>Minhas Skills</strong>
+## 🚀 <strong>My Skills</strong>
 
 <h3>
 
-**Aplicações e Dados**
+**Languages and Techs**
 
 </h3>
 
@@ -31,7 +31,7 @@
 
 <h3>
 
-**Utilidades**
+**Utilities**
 
 ![Insomnia](https://img.shields.io/badge/-Insomnia-4b00a6?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-ed6905?style=flat&logo=postman&logoColor=white)
@@ -49,14 +49,14 @@
 
 <h3>
 
-**Ferramentas de Desenvolvimento**
+**Dev Tools**
 
 </h3>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 
-## ⭐ <strong>Informações sobre minha conta GitHub</strong>
+## ⭐ <strong>Info about GitHub account</strong>
 
 &nbsp;
 
