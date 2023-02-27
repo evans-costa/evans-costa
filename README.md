@@ -27,7 +27,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758f?style=flat&logo=mysql&logoColor=white)
 
 <h3>
 
@@ -62,7 +62,7 @@
 
 <p align="center">
   <a href="https://github.com/evans-costa">
-      <img style= "width: 45%" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=evans-costa&show_icons=true&theme=synthwave" /> 
+      <img style= "width: 50%" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=evans-costa&show_icons=true&theme=synthwave" /> 
       <img style= "width: 40%" alt="Evandro's github languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evans-costa&hide=html&layout=compact&theme=synthwave"/>
   </a>
 </p>
