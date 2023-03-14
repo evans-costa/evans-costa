@@ -1,4 +1,4 @@
-## Hello! I'm <strong>{ Evandro }</strong>, full stack web developer 🚀
+## Hello! I'm <strong>Evandro</strong>, full stack web developer 👋🏻
 
 [![GitHub evans-costa](https://img.shields.io/github/followers/evans-costa?label=follow&style=social)](https://github.com/evans-costa)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/evandro-souzac/)
