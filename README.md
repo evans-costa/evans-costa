@@ -40,7 +40,7 @@
 
 <h3>
 
-**DevOps**
+**Version Code Control**
 
 </h3>
 
