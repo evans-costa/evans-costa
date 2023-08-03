@@ -9,7 +9,6 @@
 <!-- Any image aligned to the right. Beware the width -->
 <!--img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
-- 🎓 Graduate in **full stack web development** at <a href="https://www.digitalhouse.com/br">Digital House</a>.
 - 🌱 Learning more and improving my skills in **React**.
 - ⚡️ Fun-Fact: I have a bachelor's degree in pharmacy.
 
