@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evandro.souzac@gmail.com)
 
 ## 🧑🏻‍💻 <strong>About Me</strong>
-- 👀 Looking for my first job opportunity. 
+- 👀 Looking for my first job opportunity as a developer. 
 - 🌱 Learning more and improving my skills as a self-taught programmer.
 - ⚡️ Fun-Fact: I have a bachelor's degree in pharmacy.
 
