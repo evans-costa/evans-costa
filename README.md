@@ -55,5 +55,5 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=evans-costa&show_icons=true&theme=synthwave&rank_icon=github&card_width=250" />
 </a>
 <a href="https://github.com/evans-costa">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evans-costa&theme=synthwave&layout=compact&langs_count=8&card_width=250" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evans-costa&theme=synthwave&layout=compact&langs_count=8&card_width=100" />
 </a>
