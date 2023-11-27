@@ -52,8 +52,8 @@
 ## ⭐ <strong>Info about my GitHub account</strong>
 
 <a href="https://github.com/evans-costa">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=evans-costa&show_icons=true&theme=synthwave&rank_icon=github" />
+  <img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=evans-costa&show_icons=true&theme=synthwave&rank_icon=github" />
 </a>
 <a href="https://github.com/evans-costa">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evans-costa&theme=synthwave&layout=compact&langs_count=8&card_width=100" />
+  <img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evans-costa&theme=synthwave&layout=compact&langs_count=8&card_width=320" />
 </a>
