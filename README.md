@@ -48,13 +48,12 @@
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+
 ## ⭐ <strong>Info about my GitHub account</strong>
 
-&nbsp;
-
-<p align="center">
-  <a href="https://github.com/evans-costa">
-      <img style= "width: 50%" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=evans-costa&show_icons=true&theme=synthwave" /> 
-      <img style= "width: 50%" alt="Evandro's github languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evans-costa&hide=html&layout=compact&theme=synthwave"/>
-  </a>
-</p>
+<a href="https://github.com/evans-costa">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=evans-costa&show_icons=true&theme=synthwave&rank_icon=github" />
+</a>
+<a href="https://github.com/evans-costa">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evans-costa&theme=synthwave&layout=compact&langs_count=8&card_width=320" />
+</a>
