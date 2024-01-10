@@ -1,14 +1,19 @@
-## Hello! I'm <strong>Evandro</strong>👋🏻
+<div align="center">
 
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evandro-souzac/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evandro.souzac@gmail.com)
+## Hello, World! I'm <strong>Evandro</strong>👋🏻
+
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evandro-souzac/) &nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:evandro.souzac@gmail.com) &nbsp;
+
+</div> 
 
 ## 🧑🏻‍💻 <strong>About Me</strong>
 - 👀 Looking for my first job opportunity as a developer. 
 - 🌱 Learning more and improving my skills as a self-taught programmer.
 - ⚡️ Fun-Fact: I have a bachelor's degree in pharmacy.
 
-
+<div align="center">
+  
 ## ⚒️ <strong>Tech Stacks</strong>
 
 <h3>**OS**</h3>
@@ -18,42 +23,30 @@
 
 <h3>**Languages, Techs, Frameworks, Libs...**</h3>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+[![JavaScript, Node.js, Express, React, Next.js, Postgres, HTML5, CSS](https://skillicons.dev/icons?i=js,nodejs,express,react,next,postgres,html,css)](https://skillicons.dev)
 
 <h3>**Utilities**</h3>
 
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+[![Postman, Docker](https://skillicons.dev/icons?i=postman,docker)](https://skillicons.dev)
 
 <h3>**Version Code Systems / Repo Hosting Services**</h3>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+[![Git, GitHub](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 
 <h3>**Hosting**</h3>
 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+[![Vercel](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
 
 <h3>**IDEs**</h3>
 
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![Visual Studio Code, Vim](https://skillicons.dev/icons?i=vscode,vim)](https://skillicons.dev)
 
 
 ## ⭐ <strong>Info about my GitHub account</strong>
 
-<a href="https://github.com/evans-costa">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=evans-costa&show_icons=true&theme=synthwave&rank_icon=github&card_width=250" />
-</a>
-<a href="https://github.com/evans-costa">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evans-costa&theme=synthwave&layout=compact&langs_count=8&card_width=100" />
-</a>
+<p>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=evans-costa&show_icons=true&theme=synthwave&rank_icon=github&card_width=250" />&nbsp;&nbsp;
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evans-costa&theme=synthwave&layout=compact&langs_count=8&card_width=100" />&nbsp;&nbsp;
+</p>
+
+</div>
