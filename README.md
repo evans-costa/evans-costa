@@ -22,7 +22,7 @@
 
 <h3>**Languages, Techs, Frameworks, Libs...**</h3>
 
-[![Tech Stack](https://skillicons.dev/icons?i=js,nodejs,express,react,nextjs,tailwind,postgres,jest,html,css)](https://skillicons.dev)
+[![Tech Stack](https://skillicons.dev/icons?i=cs,dotnet,js,nodejs,express,react,nextjs,tailwind,postgres,jest,html,css)](https://skillicons.dev)
 
 <h3>**Utilities**</h3>
 
@@ -34,7 +34,7 @@
 
 <h3>**Hosting**</h3>
 
-[![Vercel](https://skillicons.dev/icons?i=vercel)](https://skillicons.dev)
+[![Hosting](https://skillicons.dev/icons?i=vercel,azure)](https://skillicons.dev)
 
 <h3>**IDEs**</h3>
 
