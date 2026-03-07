@@ -38,14 +38,4 @@
 
 <h3>**IDEs**</h3>
 
-[![IDE](https://skillicons.dev/icons?i=vscode,visualstudio,vim)](https://skillicons.dev)
-
-
-## ⭐ <strong>Info about my GitHub account</strong>
-
-<p>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=evans-costa&show_icons=true&theme=synthwave&rank_icon=github&card_width=250" />&nbsp;&nbsp;
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evans-costa&theme=synthwave&layout=compact&langs_count=8&card_width=100" />&nbsp;&nbsp;
-</p>
-
-</div>
+[![IDE](https://skillicons.dev/icons?i=vscode,visualstudio,vim,rider)](https://skillicons.dev)
