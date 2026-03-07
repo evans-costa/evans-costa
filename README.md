@@ -7,7 +7,7 @@
 </div> 
 
 ## 🧑🏻‍💻 <strong>About Me</strong>
-- 👀 Looking for my first job opportunity as a developer. 
+- 🌐 Working as Software Developer. 
 - 🌱 Learning more and improving my skills as a self-taught programmer.
 - ⚡️ Fun-Fact: I have a bachelor's degree in pharmacy.
 - 👨🏻‍💻 Current learning: C#, .NET
